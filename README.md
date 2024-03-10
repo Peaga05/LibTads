@@ -1,8 +1,8 @@
 
-```LibTads - README```
+# LibTads - README
 Este projeto é uma aplicação desenvolvida utilizando PHP, HTML, CSS, Bootstrap, jQuery e MySQL. O objetivo desta aplicação é gerenciar livros, autores, gêneros, usuários e empréstimos em uma biblioteca.
 
-```Estrutura do Banco de Dados```
+# Estrutura do Banco de Dados
 Para iniciar o uso deste projeto, é necessário criar o banco de dados e suas tabelas. Abaixo está o script SQL para criar o banco de dados LibTadsDb e suas tabelas:
 
 CREATE DATABASE LibTadsDb;

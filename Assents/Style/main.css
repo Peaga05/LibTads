@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #334f53 !important;
+}
+
+.login-container{
+    background-color: #e5ead4 !important;
+    color: #334f53 !important;
+    font-weight: bold !important;
+}
+
+input{
+    background-color: #e5ead4 !important;
+    border: #334f53 solid 1px !important;
+    color: #334f53 !important;
+    font-weight: bold !important;
+}
+
+.btn-success{
+    background-color: #334f53 !important;
+    color: #e5ead4 !important;
+}
+
+.btn-cadastro{
+    color: #334f53 !important;
+    border: none !important;
+}

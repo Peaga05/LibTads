@@ -1,7 +1,4 @@
 <?php
-
-use DateTime;
-
 class Emprestimo
 {
     private $id;

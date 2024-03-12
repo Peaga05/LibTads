@@ -1,7 +1,4 @@
 <?php
-
-use DateTime;
-
 class Usuario
 {
     private $id;

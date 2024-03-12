@@ -1,7 +1,4 @@
 <?php
-
-use DateTime;
-
 class Livro
 {
     private $id;

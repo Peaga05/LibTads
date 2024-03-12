@@ -1,8 +1,8 @@
 <?php
-class Autor
+class Funcao
 {
     private $id;
-    private $nome;
+    private $descricao;
     private $creationTime;
     private $isDeleted;
 
@@ -16,14 +16,14 @@ class Autor
         $this->id = $id;
     }
 
-    public function getNome(): ?string
+    public function getDescricao(): ?string
     {
-        return $this->nome;
+        return $this->descricao;
     }
 
-    public function setNome(string $nome): void
+    public function setDescricao(string $descricao): void
     {
-        $this->nome = $nome;
+        $this->descricao = $descricao;
     }
 
     public function getCreationTime(): ?DateTime
